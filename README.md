@@ -1,4 +1,12 @@
-<h1>Hi, I'm David! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm David! <br/><a href="https://github.com/dpozo2127">Aspiring Programmer </a>, <a href="https://www.linkedin.com/in/davidpozo127">Junior Industrial & Systems Engineering Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+
+<h2>💡About Me:</h2>
+<b> I am a current Junior at North Carolina State University with a GPA of 3.58/4.0. Some hobbies of mine include playing sports (Tennis, Volleyball, and Basketball), playing videogames, and lifting weights which helps me ease my mind. </b> 
+
+<b>The reason for creating these github respositories is to demonstrate my ability to use programming languages and software to display information, organize data, and solve problems. Also some fun/cool projects like the Maze Navigator where I used the BFS algorithm to find the optimal path of any maze grid. </b>
+
+<b>I am a passionate young leader looking for a place where my creativity and curiosity can blossom. The industries I am interested in are Digital Products, Consumer Products, Supply Chain, and Manufacturing. I will continue to add more and mroe projects to my portfolio as I contnue my journey as an ISE engineer and show what I can do. </b>
+
 
 <h2>👨‍💻 Optimization Projects:</h2>
 
@@ -6,23 +14,15 @@
   - [Praciting BFS in Python](https://github.com/dpozo2127/MazeNavigatorProject)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b>Practicing PowerBI Dashboard </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Python</b>
+- <b>Practicing SQL</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+<b> [linkedin]: https://www.linkedin.com/in/davidpozo127</b>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
