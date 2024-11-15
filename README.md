@@ -5,7 +5,7 @@
 
 <b>The reason for creating these github respositories is to demonstrate my ability to use programming languages and software to display information, organize data, and solve problems. Also some fun/cool projects like the Maze Navigator where I used the BFS algorithm to find the optimal path of any maze grid. </b>
 
-<b>I am a passionate young leader looking for a place where my creativity and curiosity can blossom. The industries I am interested in are Digital Products, Consumer Products, Supply Chain, and Manufacturing. I will continue to add more and mroe projects to my portfolio as I contnue my journey as an ISE engineer and show what I can do. </b>
+<b>I am a passionate young leader looking for a place where my creativity and curiosity can blossom. The industries I am interested in are Digital Products, Consumer Products, Supply Chain, and Manufacturing. I will continue to add more and more projects to my portfolio as I contnue my journey as an ISE engineer and show what I can do. </b>
 
 
 <h2>👨‍💻 Optimization Projects:</h2>
