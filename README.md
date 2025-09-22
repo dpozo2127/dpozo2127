@@ -1,7 +1,7 @@
 <h1>Hi, I'm David! <br/><a href="https://github.com/dpozo2127">Aspiring Programmer </a>, <a href="https://www.linkedin.com/in/davidpozo127">Junior Industrial & Systems Engineering Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>💡About Me:</h2>
-<b> I am a current Junior at North Carolina State University with a GPA of 3.58/4.0. Some hobbies of mine include playing sports (Tennis, Volleyball, and Basketball), playing videogames, and lifting weights which helps me ease my mind. </b> 
+<b> I am a current Senior at North Carolina State University with a GPA of 3.58/4.0. Some hobbies of mine include playing sports (Tennis, Volleyball, and Basketball), playing videogames, and lifting weights which helps me ease my mind. </b> 
 
 <b>The reason for creating these github respositories is to demonstrate my ability to use programming languages and software to display information, organize data, and solve problems. Also some fun/cool projects like the Maze Navigator where I used the BFS algorithm to find the optimal path of any maze grid. </b>
 
